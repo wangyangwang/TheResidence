@@ -1,0 +1,118 @@
+fileFormatVersion: 2
+guid: e7ee16b64bb7540eda4ffd4a09992b37
+timeCreated: 1458085084
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BB_Barisan_400_002
+    100002: BB_Barisan_750_002
+    100004: BB_Besar_vas_00
+    100006: BB_Bolla_00
+    100008: BB_Kubus_00
+    100010: BB_Kubus_vas_00
+    100012: //RootNode
+    100014: BB_Prios_vas_1050_00
+    100016: BB_Prios_vas_700_00
+    100018: BB_Tiga_00
+    400000: BB_Barisan_400_002
+    400002: BB_Barisan_750_002
+    400004: BB_Besar_vas_00
+    400006: BB_Bolla_00
+    400008: BB_Kubus_00
+    400010: BB_Kubus_vas_00
+    400012: //RootNode
+    400014: BB_Prios_vas_1050_00
+    400016: BB_Prios_vas_700_00
+    400018: BB_Tiga_00
+    2300000: BB_Barisan_400_002
+    2300002: BB_Barisan_750_002
+    2300004: BB_Besar_vas_00
+    2300006: BB_Bolla_00
+    2300008: BB_Kubus_00
+    2300010: BB_Kubus_vas_00
+    2300012: BB_Prios_vas_1050_00
+    2300014: BB_Prios_vas_700_00
+    2300016: BB_Tiga_00
+    3300000: BB_Barisan_400_002
+    3300002: BB_Barisan_750_002
+    3300004: BB_Besar_vas_00
+    3300006: BB_Bolla_00
+    3300008: BB_Kubus_00
+    3300010: BB_Kubus_vas_00
+    3300012: BB_Prios_vas_1050_00
+    3300014: BB_Prios_vas_700_00
+    3300016: BB_Tiga_00
+    4300000: BB_Barisan_750_002
+    4300002: BB_Barisan_400_002
+    4300004: BB_Besar_vas_00
+    4300006: BB_Kubus_00
+    4300008: BB_Kubus_vas_00
+    4300010: BB_Prios_vas_1050_00
+    4300012: BB_Prios_vas_700_00
+    4300014: BB_Tiga_00
+    4300016: BB_Bolla_00
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
